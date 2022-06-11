@@ -1,0 +1,10 @@
+<svg width="27" height="191" viewBox="0 0 27 191" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle r="4" transform="matrix(-1 0 0 1 23 67)" fill="#CCAF83"/>
+<circle r="4" transform="matrix(-1 0 0 1 23 127)" fill="#CCAF83"/>
+<path d="M1 38V50C1 59.9411 9.05888 68 19 68V68" stroke="#B2B2B2"/>
+<path d="M1 31V109C1 118.941 9.05888 127 19 127V127" stroke="#B2B2B2"/>
+<path d="M1 51V22C1 12.0589 9.05888 4 19 4V4" stroke="#B2B2B2"/>
+<path d="M1 54V168C1 177.941 9.05888 186 19 186V186" stroke="#B2B2B2"/>
+<circle r="4" transform="matrix(-1 0 0 1 23 4)" fill="#CCAF83"/>
+<circle r="4" transform="matrix(-1 0 0 1 23 187)" fill="#CCAF83"/>
+</svg>

@@ -1,0 +1,22 @@
+@import "reset";
+
+// Vendor
+@import "../js/vendor/slick/slick.scss";
+
+// Common
+@import "variables";
+@import "fonts";
+@import "base";
+
+@import "buttons";
+@import "forms";
+
+@import "header";
+@import "footer";
+@import "animate";
+@import "popup";
+// Pages
+@import "home";
+@import "skils";
+@import "resume";
+@import "contacts";

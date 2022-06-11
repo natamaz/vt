@@ -1,0 +1,159 @@
+
+@font-face {
+    font-family: 'Visuelt-Regular';
+    src: url('../fonts/VisueltPro-Regular.eot');
+    src: local('VisueltPro-Regular'),
+        url('../fonts/VisueltPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisueltPro-Regular.woff2') format('woff2'),
+        url('../fonts/VisueltPro-Regular.woff') format('woff'),
+        url('../fonts/VisueltPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt-Bold';
+    src: url('../fonts/VisueltPro-Bold.eot');
+    src: local('VisueltPro-Bold'),
+        url('../fonts/VisueltPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisueltPro-Bold.woff2') format('woff2'),
+        url('../fonts/VisueltPro-Bold.woff') format('woff'),
+        url('../fonts/VisueltPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt-Black';
+    src: url('../fonts/VisueltPro-Black.eot');
+    src: local('VisueltPro-Black'),
+        url('../fonts/VisueltPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisueltPro-Black.woff2') format('woff2'),
+        url('../fonts/VisueltPro-Black.woff') format('woff'),
+        url('../fonts/VisueltPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt-Light';
+    src: url('../fonts/VisueltPro-Light.eot');
+    src: local('VisueltPro-Light'),
+        url('../fonts/VisueltPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisueltPro-Light.woff2') format('woff2'),
+        url('../fonts/VisueltPro-Light.woff') format('woff'),
+        url('../fonts/VisueltPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+// Sansation font
+@font-face {
+    font-family: 'Sansation-Regular';
+    src: local('Sansation Regular'),
+    url('../fonts/sansationregular.woff2') format('woff2'),
+    url('../fonts/sansationregular.woff') format('woff'),
+    url('../fonts/sansationregular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+//Playfair Display
+@font-face {
+    font-family: "Playfair-Regular";
+    src: local('../fonts/Playfair Display SC'),
+    local('PlayfairDisplaySC-Regular'),
+    url('../fonts/playfairdisplaysc.woff2') format('woff2'),
+    url('../fonts/playfairdisplaysc.woff') format('woff'),
+    url('../fonts/playfairdisplaysc.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Playfair-Black';
+    src: local('../fonts/Playfair Display SC Black'),
+    local('PlayfairDisplaySC-Black'),
+    url('../fonts/playfairdisplayscblack.woff2') format('woff2'),
+    url('../fonts/playfairdisplayscblack.woff') format('woff'),
+    url('../fonts/playfairdisplayscblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Playfair-Bold';
+    src: local('Playfair Display SC Bold'),
+    local('PlayfairDisplaySC-Bold'),
+    url('../fonts/playfairdisplayscbold.woff2') format('woff2'),
+    url('../fonts/playfairdisplayscbold.woff') format('woff'),
+    url('../fonts/playfairdisplayscbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+//Gilroy
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('../fonts/Gilroy-Medium.eot');
+    src: local('Gilroy Medium'), local('Gilroy-Medium'),
+    url('../fonts/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Medium.woff') format('woff'),
+    url('../fonts/Gilroy-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gilroy-Regular';
+    src: url('../fonts/Gilroy-Regular.eot');
+    src: local('Gilroy Regular'), local('Gilroy-Regular'),
+    url('../fonts/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Regular.woff') format('woff'),
+    url('../fonts/Gilroy-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url('../fonts/Gilroy-Light.eot');
+    src: local('Gilroy Light'), local('Gilroy-Light'),
+    url('../fonts/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Light.woff') format('woff'),
+    url('../fonts/Gilroy-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+//Montserrat
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../fonts/Montserrat-Regular.eot');
+    src: local('Montserrat Regular'), local('Montserrat-Regular'),
+    url('../fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Montserrat-Regular.woff') format('woff'),
+    url('../fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('../fonts/Montserrat-Medium.eot');
+    src: local('Montserrat Medium'), local('Montserrat-Medium'),
+    url('../fonts/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Montserrat-Medium.woff') format('woff'),
+    url('../fonts/Montserrat-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
